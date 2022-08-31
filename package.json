@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./src/app.js --id=777 --name=johan --n1=7 --n2=8.5 --n3=8"
   },
   "keywords": [],
   "author": "",
